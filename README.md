@@ -170,7 +170,6 @@ AI-powered game agent trained via neuroevolution — demonstrates evolutionary M
 
 <br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ntrduc1310&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ntrduc1310)
 
 </div>
 
